@@ -3,7 +3,8 @@
 ![Image](https://github.com/user-attachments/assets/90872501-1c65-414c-b448-e0c9c6d764d5)
 
 ## Getting Started
-### Step 1: Go to the docker official website at https://www.docker.com/
+## Step 1: Go to the docker official Website 
+goto at https://www.docker.com/
 
 If you dont have a current docker account make sure to Sign-up or if you have, make sure to Sign-in first
 
@@ -19,7 +20,7 @@ For this Documentation we will use windows for it
 <br>
 
 
-### Step 2: Enable Window Features
+## Step 2: Enable Window Features
 On your desktop search for ` Windows Feature on or Off `
 
 Once youre in, check the following:
@@ -54,7 +55,7 @@ once the Default Version is 2, Find the Docker Desktop Installer then run it to 
 
 
 
-### Step 4: Docker Desktop
+## Step 4: Docker Desktop
 
 Once the docker desktop is installed , open Docker Desktop
 
@@ -66,7 +67,7 @@ Once you click on it you will see a Docker icon and hover your mouse on it, you 
 
 <br>
 
-### Step 5:  Check docker on CMD 
+## Step 5:  Check docker on CMD 
 
 To make sure you have an installed docker, open command prompt then type:
 ```
