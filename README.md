@@ -1,6 +1,8 @@
 <h1 align="center"> Docker Installation for Windows </h1>
 
-![Image](https://github.com/user-attachments/assets/90872501-1c65-414c-b448-e0c9c6d764d5)
+<div align="center">
+<img height=300px src="https://github.com/user-attachments/assets/65e9a598-cde6-4988-93b1-d2c8cfa5affd" align="center">
+</div>
 
 ## Getting Started
 ## Step 1: Go to the docker official Website 
