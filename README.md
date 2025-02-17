@@ -63,6 +63,10 @@ Once the docker desktop is installed , open Docker Desktop
 
 Sign in your Docker Account and to make sure the docker is running find the ` ^ ` icon on your desktop taskbar then click on it
 
+after signing in goto ` Settings >> Resources >> WSL Integration `, then make sure The `Enable integration with my default WSL distro` is checked ✅
+
+additionally make sure all the distros are enabled on the part of `Enable integration with additional distros: ` since we are using ubuntu , make sure its enabled.
+
 
 Once you click on it you will see a Docker icon and hover your mouse on it, you will see a pop up sayin, ` Docker Desktop is Running `.
 ##
