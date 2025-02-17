@@ -61,6 +61,12 @@ For `mysql-db`
 - It must return like this:
 <p>
     <pre>
+2025-02-17T05:01:27.079259Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-02-17T05:01:27.247143Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 9.2.0) starting as process 1
+2025-02-17T05:01:27.254769Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-02-17T05:01:27.519563Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-02-17T05:01:27.787508Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-02-17T05:01:27.787552Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2025-02-17T05:01:27.790662Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
 2025-02-17T05:01:27.815987Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
 2025-02-17T05:01:27.816010Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '9.2.0'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
