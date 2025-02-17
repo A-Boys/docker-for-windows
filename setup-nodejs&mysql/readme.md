@@ -88,6 +88,8 @@ For `my-app`
 [nodemon] watching path(s): src/\*_/_
 [nodemon] watching extensions: js,mjs,cjs,json
 </span><span style="color:green"><b>[nodemon] starting "node src/index/js"</b></span>
+
+App is running at port 3000...
 </pre>
 
 </p>
